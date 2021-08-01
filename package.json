@@ -1,0 +1,14 @@
+{
+  "name": "trans-css",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/preset-env": "^7.14.9",
+    "babel-jest": "^27.0.6",
+    "jest": "^27.0.6"
+  }
+}
