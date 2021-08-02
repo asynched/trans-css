@@ -2,6 +2,8 @@
   "name": "trans-css",
   "version": "0.0.1",
   "license": "MIT",
+  "main": "./src/index.js",
+  "type": "module",
   "scripts": {
     "test": "jest"
   },
@@ -10,5 +12,9 @@
     "@babel/preset-env": "^7.14.9",
     "babel-jest": "^27.0.6",
     "jest": "^27.0.6"
-  }
+  },
+  "keywords": [
+    "javascript",
+    "css"
+  ]
 }
